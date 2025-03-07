@@ -21,5 +21,6 @@ To allow for easier referencing to the KPIs and measures used, some ids were cre
 - For KPIs or measures that are variations or subsets of the same, additional letters/numbers are added
 
 For example, KC1 is a KPI (starts with K), created in common by all LLs (second letter is C) and it is the first one of the common KPIs so it gets a 1. 
-Another example, MC
+
+Another example, MC11-1 (Production sales) is a measure (starts with M) which is gathered by all LLs (common, second letter is C) and it is a subset of Sales (all sales measures starts with MC11). 
 
