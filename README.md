@@ -9,7 +9,9 @@ Agriculture Federation using Dashboarding".
 - `/specification`: Folder containing the specification document for the initial implementation of the data gathering part. 
 
 
-Note: Some targets are still preliminary
+Note: Some targets are preliminary
+
+Note2: In some KPIs, the LL cities are referred to by a number. In this case, City1 is Bucharest, City2 is Drama and City3 is Strovolos. 
 
 ## Explanation of the IDs
 
