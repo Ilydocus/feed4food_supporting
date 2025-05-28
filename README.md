@@ -1,7 +1,7 @@
 # Supporting a Sustainable and Inclusive Urban Agriculture Federation using Dashboarding - Online material 
 
 This repository contains the online material of the article "Supporting a Sustainable and Inclusive Urban
-Agriculture Federation using Dashboarding", submitted to ICT4S 2025. 
+Agriculture Federation using Dashboarding". 
 
 ## Repository structure
 
@@ -9,9 +9,7 @@ Agriculture Federation using Dashboarding", submitted to ICT4S 2025.
 - `/specification`: Folder containing the specification document for the initial implementation of the data gathering part. 
 
 
-Note: The documents are anonymized for the review
-
-Note2: Some targets are still preliminary
+Note: Some targets are still preliminary
 
 ## Explanation of the IDs
 
